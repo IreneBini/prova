@@ -1,7 +1,4 @@
-def square(x):
-    """Function returning the suare of x.
-    """
-    return x**2.
+from prova.square import square
 
 # test function that test if the square function do what it has to do
 def test():
